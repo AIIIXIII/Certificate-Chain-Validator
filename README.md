@@ -2,7 +2,7 @@
 
                             _ABSTRACT_
  
-.NET Core Console App that checks X.509 (SSL/TSL etc.)certificate chain for validity.
+.NET Core Console App that checks X.509 (SSL/TSL etc.) certificate chain for validity.
 
                               _USAGE_
                           
